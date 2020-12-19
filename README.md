@@ -1,13 +1,13 @@
 # GeneratorBox
-<strong>Kurzbeschreibung:</strong><br>
-Die GeneratorBox ist mein erstes Programm mit C#. Ein kleines Programm, welches aber sehr hilfreich sein kann. Mithilfe der GeneratoxBox können zufällig Passwörter und Zahlen generiert werden.
+<strong>Description</strong><br>
+The GeneratorBox is my first program with C#. It is a small program, but it can be very helpful. With the help of the GeneratoxBox passwords and numbers can be randomly generated.
 
-<strong>Aufbau des Programms:</strong><br>
-- Fenster: Auswahl
-  - Auswahl zwischen Passwort & Zahlen Generator
-- Fenster: Passwort Generator
-  - Erstellen eines zufälliges Passwort
-  - Einstellbar: Welche Zeichen sollen verwendet werden? 
-- Fenster: Zahlen Generator
-  - Min. und Max. angeben
-  - Zufällige Zahl wird zwischen diesem Intervall erzeugt
+<strong>Features</strong><br>
+- Window: Selection
+  - Selection between Password & Numbers Generator
+- Password Generator Window
+  - Create a random password
+  - Adjustable: Which characters should be used? 
+- Window: Numbers Generator
+  - Specify min. and max.
+  - Random number is generated between this interval
